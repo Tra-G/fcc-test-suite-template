@@ -12,3 +12,12 @@ body{
 h1{
     font-size: 35px;
 }
+
+.image{
+    width: 900px;
+    margin: auto;
+}
+
+img{
+    width: 900px;
+}
